@@ -26,3 +26,7 @@ karena ini hanya untuk dipakai pengecekan data invalid yang lebih mudah oleh kit
 
 Harapan dari KPU dapat melakukan query dan validasi serta memperbaiki data sehingga kita tidak perlu menjalankan script ini.
 Terima kasih.
+
+Cara Pakai :
+generate file list TPS terlebih dahulu
+baru kemudian jalankan validasi pengecekan berdasarkan list tps tersebut.
